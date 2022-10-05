@@ -1,5 +1,7 @@
 // https://calculator.swiftutors.com/working-capital-ratio-calculator.html
 
+// maybe you should call this calculator current ratio
+
 const v1 =  document.getElementById('v1');
 const v2 = document.getElementById('v2');
 const v3 = document.getElementById('v3');
